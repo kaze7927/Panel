@@ -1,0 +1,10 @@
+# ===== Daftar Akun Login =====
+# Format: username:password
+# Jangan hapus tanda pagar (#), itu cuma keterangan aja
+
+admin:12345
+arcane:arcane
+owner:rootpass
+test:test123
+user1:pass1
+user2:pass2
